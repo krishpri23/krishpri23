@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SacredBox](https://github.com/krishpri23/service-finder)
 
-- 🌱 I’m currently learning **NextJS & Supabase**
+- 🌱 I’m currently learning **NodeJS*
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishpri23](https://github.com/krishpri23)
 
