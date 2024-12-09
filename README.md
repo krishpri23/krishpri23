@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishnapriya Somalinga</h1>
 <h3 align="center">Passionate web developer trying to make a mark in the industry</h3>
 
-- 🔭 I’m currently working on [SacredBox](https://github.com/krishpri23/service-finder)
-
-- 🌱 I’m currently learning **NodeJS**
+- 🔭 I’m currently working on [E-Commerce App](https://github.com/krishpri23/nextjs-ecommerce)
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishpri23](https://github.com/krishpri23)
 
