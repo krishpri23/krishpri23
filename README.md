@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishpri23](https://github.com/krishpri23)
 
-- 💬 Ask me about **HTML5/CSS/Javascript/ReactJS**
+- 💬 Ask me about **HTML5/CSS/Javascript/Typescript/ReactJS/NextJS/NodeJS/MongoDB**
 
 - 📫 How to reach me **priya.amarnath23@gmail.com**
 
